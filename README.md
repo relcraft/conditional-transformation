@@ -21,7 +21,4 @@ Methods addCase and orDefault are implemented in **ConditionalTransformation** o
 and usage of this object according to above example you can find in ToUpperLowerCase.java.
 
 Another usage of ConditionalTransformation you can find in CarFactory.java where ConditionalTransformation object
-is implemented as a factory method creating various types of car depending on how much you want to spend on it.    
-  
-
-
+is implemented as a factory method creating various types of car depending on how much you want to spend on it.   
